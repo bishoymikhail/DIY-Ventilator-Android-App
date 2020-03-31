@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ventilator App</string>
+    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_2">Tutorials</string>
+</resources>
